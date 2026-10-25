@@ -44,6 +44,12 @@ No account, no download and no paywall. New to the game? Read [how to play](http
 * **[Spelling Bee solver](https://www.vowelkit.com/spelling-bee-solver)**, **[Letter Boxed solver](https://www.vowelkit.com/letter-boxed-solver)** and **[Squaredle solver](https://www.vowelkit.com/squaredle-solver)** for daily puzzle games.
 * **[Word Hunt solver](https://www.vowelkit.com/word-hunt-solver)**, **[Boggle solver](https://www.vowelkit.com/boggle-solver)**, **[Text Twist solver](https://www.vowelkit.com/text-twist-solver)**, **[Jumble solver](https://www.vowelkit.com/jumble-solver)** and **[Words With Friends helper](https://www.vowelkit.com/words-with-friends-cheat)**.
 
+## Browser extensions
+
+* **[Vowelkit: Word Finder & Unscrambler](https://addons.mozilla.org/en-US/firefox/addon/vowelkit-word-finder/)** for Firefox and [Edge](https://microsoftedge.microsoft.com/addons/detail/kaddclonconccmcncmdgplllpnmkigme): type your letters in the toolbar and see the best words, or right-click any word to check it.
+* **[Vowelkit: Daily 5-Letter Word Game](https://addons.mozilla.org/en-US/firefox/addon/vowelkit-daily-word-game/)** for Firefox: play the daily puzzle from your toolbar.
+* More details on the [extensions page](https://www.vowelkit.com/extension).
+
 ## Word lists and guides
 
 * [5 letter words](https://www.vowelkit.com/5-letter-words), plus lists from [2 letter words](https://www.vowelkit.com/2-letter-words) up to [15 letter words](https://www.vowelkit.com/15-letter-words)
